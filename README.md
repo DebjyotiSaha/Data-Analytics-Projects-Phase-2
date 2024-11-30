@@ -4,7 +4,7 @@ This repository contains various data analytics projects focused on data preproc
 
 ## Projects
 
-- **Project 1**: Hyperscale Soil Moisture
+- **Project 1**: Hyperspectral Soil Moisture
 
 ## Technologies Used
 - Python
