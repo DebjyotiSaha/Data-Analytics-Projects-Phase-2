@@ -5,6 +5,7 @@ This repository contains various data analytics projects focused on data preproc
 ## Projects
 
 - **Project 1**: Hyperspectral Soil Moisture
+- **Project 2**: Genome Sample & Collection Analysis
 
 ## Technologies Used
 - Python
