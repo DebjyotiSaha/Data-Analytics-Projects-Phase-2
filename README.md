@@ -8,6 +8,7 @@ This repository contains various data analytics projects focused on data preproc
 - **Project 2**: Genome Sample & Collection Analysis
 - **Project 3**: Swiss Apartment Models
 - **Project 4**: NYSE Report Card
+- **Project 5**: Economic Indicator using Fred API
 
 ## Technologies Used
 - Python
